@@ -11,13 +11,22 @@ html {
 
 body{
   text-align: center;
-  padding-top: 100px;
+  /*padding-top: 100px;*/
   background-color: #3ac77e;
   height: 100vh;
 }
 h1{
   font: 68px/68px "Chewy",Arial, sans-serif;
   color: #2C9090;
+}
+
+#welcome {
+  color: white;
+}
+
+#describe {
+  font: 30px/30px Arial, sans-serif;
+  color: white;
 }
 
 .board{
